@@ -90,23 +90,21 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![Screenshot 2024-05-06 231125](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/0b2ba9a1-660e-4696-8f01-de6db34ad6d8)
-![Screenshot 2024-05-06 231518](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/56b6deb3-6302-44ba-b79b-dfae99a9a025)
-![Screenshot 2024-05-06 231540](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/344d0ca5-e58e-4407-8111-285f703f9c51)
+![Screenshot 2024-05-10 091404](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/006efc5c-bbc9-45fc-af01-d6b15c2f6ecb)
+![Screenshot 2024-05-10 092302](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/d64b9cc9-c9ba-43d9-b9bf-aba41dc42e9d)
+
+
+![Screenshot 2024-05-10 092348](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/a461a00e-0720-4909-81f9-1e4ae50bd8b4)
 
 
 ### Global Thresholding
-![Screenshot 2024-05-06 231453](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/9f5c1497-18d7-4504-a005-c9c755bf7c73)
-
+![Screenshot 2024-05-10 092110](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/979cb58c-6bc9-4716-9951-701205923074)
 
 ### Adaptive Thresholding
-![Screenshot 2024-05-06 231345](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/4bcab8d1-51de-4040-862e-15c857649b4e)
-
+![Screenshot 2024-05-10 091804](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/ab06e6ae-e8c1-4891-ab14-92267c9e531e)
 
 ### Optimum Global Thesholding using Otsu's Method
-![Screenshot 2024-05-06 231243](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/93cfd3df-2a16-46b9-8cbc-003c51892027)
-
-
+![Screenshot 2024-05-10 091722](https://github.com/syedmokthiyar/Thresholdingg/assets/118787294/8d077115-53ec-4b7e-95d3-15e675bca4f8)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
